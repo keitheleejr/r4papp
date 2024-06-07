@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "book",
     "section": "",
-    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n1 + 1\n\n[1] 2",
+    "text": "Preface\nThis is the preface.",
     "crumbs": [
       "Preface"
     ]
@@ -22,11 +22,11 @@
   {
     "objectID": "summary.html",
     "href": "summary.html",
-    "title": "2  zSummary",
+    "title": "2  Chapter 2",
     "section": "",
-    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2",
+    "text": "This is a chapter.",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>zSummary</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Chapter 2</span>"
     ]
   },
   {
