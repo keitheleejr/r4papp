@@ -3,13 +3,13 @@ project:
   output-dir: docs
 
 book:
-  title: "book"
-  author: "Norah Jones"
+  title: "R for Public Administration and Policy"
+  author: "Keith E Lee Jr"
   date: "6/7/2024"
   chapters:
     - index.qmd
-    - intro.qmd
-    - summary.qmd
+    - 01-intro.qmd
+    - 02-chapter.qmd
     - references.qmd
 
 bibliography: references.bib
