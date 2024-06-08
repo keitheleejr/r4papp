@@ -10,35 +10,35 @@
     ]
   },
   {
-    "objectID": "01-introduction.html",
-    "href": "01-introduction.html",
-    "title": "1  Introduction",
+    "objectID": "introduction.html",
+    "href": "introduction.html",
+    "title": "Introduction",
     "section": "",
     "text": "An introduction.",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+      "Introduction"
     ]
   },
   {
-    "objectID": "02-wrangling.html",
-    "href": "02-wrangling.html",
-    "title": "2  Wrangling",
+    "objectID": "01-wrangling.html",
+    "href": "01-wrangling.html",
+    "title": "1  Wrangling",
     "section": "",
     "text": "Importing and cleaning data.",
     "crumbs": [
       "Working with Data",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Wrangling</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Wrangling</span>"
     ]
   },
   {
-    "objectID": "03-exploring.html",
-    "href": "03-exploring.html",
-    "title": "3  Exploring",
+    "objectID": "02-exploring.html",
+    "href": "02-exploring.html",
+    "title": "2  Exploring",
     "section": "",
     "text": "Visualizing data.",
     "crumbs": [
       "Working with Data",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Exploring</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Exploring</span>"
     ]
   }
 ]
