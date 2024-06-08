@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "The Book Title",
     "section": "",
-    "text": "Preface\nThis is the preface.",
+    "text": "Preface\n\nTarget audience\n\nStructure of the text\n\nHow to use the book",
     "crumbs": [
       "Preface"
     ]
   },
   {
-    "objectID": "intro.html",
-    "href": "intro.html",
+    "objectID": "01-introduction.html",
+    "href": "01-introduction.html",
     "title": "1  Introduction",
     "section": "",
     "text": "An introduction.",
@@ -20,13 +20,25 @@
     ]
   },
   {
-    "objectID": "summary.html",
-    "href": "summary.html",
-    "title": "2  Chapter 2",
+    "objectID": "02-wrangling.html",
+    "href": "02-wrangling.html",
+    "title": "2  Wrangling",
     "section": "",
-    "text": "This is a chapter.",
+    "text": "Importing and cleaning data.",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Chapter 2</span>"
+      "Working with Data",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Wrangling</span>"
+    ]
+  },
+  {
+    "objectID": "03-exploring.html",
+    "href": "03-exploring.html",
+    "title": "3  Exploring",
+    "section": "",
+    "text": "Visualizing data.",
+    "crumbs": [
+      "Working with Data",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Exploring</span>"
     ]
   }
 ]
